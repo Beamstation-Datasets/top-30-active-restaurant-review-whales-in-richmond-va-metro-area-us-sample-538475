@@ -1,12 +1,12 @@
 {
-  "export_job_id": "421821e2-e93a-4344-82e3-66d97bb7e866",
+  "export_job_id": "ec2ce137-505c-4396-9403-397228551aaf",
   "id_short": 538475,
-  "published_at": "2026-04-12T19:58:12Z",
+  "published_at": "2026-04-18T19:18:46Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-richmond-va-metro-area-us-sample-538475",
   "sample_asset_name": "beamstation_538475_restaurants-us-richmondva_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/538475/beamstation_538475_restaurants-us-richmondva_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "b08b3bee6c29bb0a46e1514b1b2fe6b9dc0341b48e05ea8f66812d12c84f46a6",
-  "sample_size_bytes": 57943,
-  "total_records": 421
+  "sample_records": 47,
+  "sample_sha256": "a3f49ca4570ea7c72204ac17327daa90d180368f5099135cd91667f84d5216aa",
+  "sample_size_bytes": 213529,
+  "total_records": 473
 }
