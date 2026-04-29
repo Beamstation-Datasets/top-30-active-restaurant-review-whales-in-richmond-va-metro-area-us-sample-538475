@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Richmond, VA Metro Area, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 56 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `538475` |
 | Location | Richmond, VA |
 | Category | Restaurants |
-| Full dataset size | 108 records |
-| Free sample size | 10 records (9.26%) |
-| Last export | 2026-04-22T06:24:05.357954+00:00 |
+| Full dataset size | 568 records |
+| Free sample size | 56 records (9.86%) |
+| Last export | 2026-04-29T08:34:19.079995+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-richmond-va-metro-area-us-sample-538475/releases/download/sample-latest/beamstation_538475_restaurants-us-richmondva_SAMPLE_DIST.csv) |
 
 ## What is in this sample
